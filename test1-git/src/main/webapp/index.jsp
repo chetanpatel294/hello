@@ -8,7 +8,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Welcome to friends.</title>
+		<title>Welcome to revert back.</title>
 	</head> 
 	<body>
 		<c:url value="view/showMessage.jsp" var="messageUrl" />
